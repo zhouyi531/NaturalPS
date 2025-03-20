@@ -46,8 +46,8 @@ The biggest advantage of using Gemini-2-flash is the ability to describe image e
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/naturalps.git
-   cd naturalps
+   git clone https://github.com/zhouyi531/NaturalPS.git
+   cd NaturalPS
    ```
 
 2. Install dependencies
