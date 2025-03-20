@@ -2,6 +2,30 @@
 
 A web application for generating and modifying images using Google's Gemini 2 Pro API. Upload images, provide descriptions, and let AI create customized images.
 
+![Effect Examples](/public/example/effect.jpg)
+
+## 使用自然语言进行图像处理 | Image Editing with Natural Language
+
+### 中文
+使用Gemini-2-flash的最大优势是能够用自然语言描述你想要的图像编辑效果。无需学习复杂的PS工具和操作，只需简单描述即可实现专业级的图像处理效果。例如：
+
+- 把这张图里的人物扩展到全身
+- 把两张图里的人物做一个合影，背景是北海蓝天
+- 保留人物面部特征，换到星球大战的场景
+- 给人物换一件黄色的衣服
+- 添加一个微笑的表情
+- 将照片风格转换为油画
+
+### English
+The biggest advantage of using Gemini-2-flash is the ability to describe image editing effects in natural language. Instead of learning complex Photoshop tools and operations, you can achieve professional-level image processing with simple descriptions. For example:
+
+- Extend this character in the image to full body
+- Create a group photo of people from two images with the blue sky of Beihai as background
+- Keep the facial features of the character and place them in a Star Wars scene
+- Change the character's clothes to yellow
+- Add a smiling expression
+- Convert the photo style to oil painting
+
 ## Features
 
 - Upload up to 3 reference images
