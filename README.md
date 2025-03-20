@@ -4,6 +4,8 @@ A web application for generating and modifying images using Google's Gemini 2 Pr
 
 ![Effect Examples](/public/example/effect.jpg)
 
+![UI](/public/example/UI_1.jpg)
+
 ## 使用自然语言进行图像处理 | Image Editing with Natural Language
 
 ### 中文

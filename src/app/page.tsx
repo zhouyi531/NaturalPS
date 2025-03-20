@@ -240,7 +240,7 @@ export default function Home() {
             <div className="grid grid-cols-3 gap-4">
               {previewUrls.map((url, index) => (
                 <div key={index} className="relative">
-                  <div className="relative h-32 w-full overflow-hidden rounded-lg">
+                  <div className="relative aspect-[3/4] w-full overflow-hidden rounded-lg">
                     <Image
                       src={url}
                       alt={`Preview ${index + 1}`}
